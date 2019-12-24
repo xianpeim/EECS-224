@@ -1,0 +1,15 @@
+Script began: Sun Jun 9 14:00:21 PDT 2019
+Node: compute-1-14.local
+Current directory: /data/users/xianpeim/eecs224/project
+
+=== Running 1 trials of project1 ... ===
+*** Trial 1 ***
+N: 2304000
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute naive GPU edge detection: 0.000453 secs
+Effective bandwidth: 5.09 GB/s
+Time to execute naive CPU edge detection: 0.207263 secs
+SUCCESS
+
+=== Done! ===

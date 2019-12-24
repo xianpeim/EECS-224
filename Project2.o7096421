@@ -1,0 +1,15 @@
+Script began: Wed Jun 12 12:45:24 PDT 2019
+Node: compute-1-14.local
+Current directory: /data/users/xianpeim/eecs224/project
+
+=== Running 1 trials of project2 ... ===
+*** Trial 1 ***
+N: 2304000
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute naive GPU edge detection with large mask: 0.046789 secs
+Effective bandwidth: 0.05 GB/s
+Time to execute naive CPU edge detection with large mask: 14.8784 secs
+SUCCESS
+
+=== Done! ===
